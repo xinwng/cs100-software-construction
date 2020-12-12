@@ -1,0 +1,10 @@
+area_calculator
+bigger_area_calculator
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+test
+README.md
+.gitmodules
+c-echo

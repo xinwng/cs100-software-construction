@@ -1,0 +1,6 @@
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest.git
+[submodule "lab-08---visitor-pattern-xwang315-joh046-lab8"]
+	path = lab-08---visitor-pattern-xwang315-joh046-lab8
+	url = https://github.com/cs100/lab-08---visitor-pattern-xwang315-joh046-lab8.git

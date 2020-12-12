@@ -1,0 +1,6 @@
+.vscode/
+../MakeFile
+cmakebuild/
+CMakeLists.txt
+googletest
+googletest

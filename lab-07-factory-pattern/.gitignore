@@ -1,0 +1,9 @@
+Makefile
+test
+calculator
+cmake_install.cmake
+CMakeLists.txt
+CMakeCache.txt
+CMakeFiles/
+lib/
+.vscode/
